@@ -1,13 +1,13 @@
 # Chatbot with gemini
  Welcome to the Chatbot with Gemini project! This interactive chatbot leverages the power of the Gemini project for both text and image-based searches. The project uses Streamlit for the user interface, making it easy to deploy and interact with the chatbot.
 
-#Features
-Gemini Models:
-
-# Gemini-Pro: Ideal for text-based searches.
-# Gemini-pro-vision: Incorporates image search capabilities.
+# Features
+ Gemini Models:
+-  Gemini-Pro: Ideal for text-based searches.
+ - Gemini-pro-vision: Incorporates image search capabilities.
+  
+ 
 - User-Friendly Interface: The chatbot comes with a clean and interactive Streamlit interface.
-
 - History Tracking: The chatbot keeps track of user queries and responses, preventing redundant questions.
 
 # Getting Started
