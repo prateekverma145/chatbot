@@ -42,7 +42,7 @@ Clone the repository:
 - Select the Gemini model (text or vision) from the sidebar.
 
 - Interact with the chatbot by typing messages or uploading images for caption generation.
-
+- chatbot: https://chatbot-7kumwsxdsgcbcrcip7r45f.streamlit.app/   
 # Configuration
 - Ensure you have a valid Google API key (GOOGLE_API_KEY) for using the Gemini models. Replace the placeholder in the code with your API key.
 - Contributing
