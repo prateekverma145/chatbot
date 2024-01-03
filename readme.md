@@ -1,4 +1,4 @@
-## Chatbot with gemini
+# Chatbot with gemini
  Welcome to the Chatbot with Gemini project! This interactive chatbot leverages the power of the Gemini project for both text and image-based searches. The project uses Streamlit for the user interface, making it easy to deploy and interact with the chatbot.
 
 #Features
