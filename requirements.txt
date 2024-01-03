@@ -1,5 +1,5 @@
-streamlit
-google-generativeai
-Pillow
-ipython
-streamlit_chat
+streamlit==1.29.0
+google-generativeai==0.3.2
+Pillow==10.0.1
+ipython==8.18.1
+streamlit-chat==0.1.1
