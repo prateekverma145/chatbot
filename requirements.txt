@@ -2,3 +2,4 @@ streamlit
 google-generativeai
 Pillow
 ipython
+streamlit_chat
